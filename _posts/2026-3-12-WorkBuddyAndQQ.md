@@ -4,7 +4,7 @@ title:      "WorkBuddy部署QQ的OpenClaw机器人助手"
 subtitle:   "如何通过WorkBuddy部署QQ的OpenClaw机器人助手"
 date:       2026-3-12
 author:     "Byolio"
-header-img: "img/OpenClaw.jpg"
+header-img: "img/OpenClaw.png"
 catalog: true
 tags:
     - OpenClaw
