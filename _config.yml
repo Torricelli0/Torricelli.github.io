@@ -14,7 +14,7 @@ future: true
 # SNS settings
 RSS: false
 github_username: Torricelli0  # 改成了你的 GitHub 用户名
-youtube_channel: UCVpuQ-wd6TkpX_uScDCgrUA
+
 
 # Build settings
 highlighter: rouge
