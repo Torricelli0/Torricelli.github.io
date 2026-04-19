@@ -1,19 +1,19 @@
 # Site settings
 title: Torricelli Blog
 SEOTitle: Torricelli Blog
-header-img: img/home-bg.jpg
+header-img: img/bg.jpg  # 改成了你上传的背景图文件名
 email: 3218732070@qq.com
-description: "这里是 @Torricelli 的个人博客，记录学习与成长"
-keyword: "Torricelli"
-url: "https://Torricelli.github.io"
-baseurl: ""
+description: "这里是 @Torricelli0 的个人博客，记录学习与成长"
+keyword: "Torricelli0"
+url: "https://torricelli0.github.io"  # 改成了你的新用户名域名
+baseurl: ""  # 改名后仓库和用户名一致，这里留空即可
 
 # Publish posts or collection documents with a future date.
 future: true
 
 # SNS settings
 RSS: false
-github_username: Torricelli
+github_username: Torricelli0  # 改成了你的 GitHub 用户名
 youtube_channel: UCVpuQ-wd6TkpX_uScDCgrUA
 
 # Build settings
@@ -47,7 +47,7 @@ kramdown:
 # Sidebar settings
 sidebar: true
 sidebar-about-description: "做一个生活上 earnest 的人 <br> email: 3218732070@qq.com"
-sidebar-avatar: /img/myBlog.png
+sidebar-avatar: /img/avatar.png  # 改成了你上传的头像文件名
 
 # Featured Tags
 featured-tags: true
