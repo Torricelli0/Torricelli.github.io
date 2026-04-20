@@ -46,7 +46,7 @@ kramdown:
 
 # Sidebar settings
 sidebar: true
-sidebar-about-description: "做一个生活上 earnest 的人 <br> email: 3218732070@qq.com"
+sidebar-about-description: "人生如逆旅，我亦是行人 <br> email: 3218732070@qq.com"
 sidebar-avatar: /img/avatar.png  # 改成了你上传的头像文件名
 
 # Featured Tags
